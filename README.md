@@ -29,3 +29,5 @@ Here's the final result on a Simulator using a Container View (embedded View Con
 <img src="Design/Walking-Widget-iPhone-11-Pro.png" align="center" alt="Final Widget Using a Container View" width="400">
 
 * You can make the content fill better with some additional constraints, but this works for resizing to different screen widths
+
+Add a new comment
